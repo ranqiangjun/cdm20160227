@@ -1,9 +1,9 @@
-# 2016年02月27日14:43:20
+# DrupalCamp Chongqing 筹备笔记
 
 ## 人
 
 ### 演讲人
-- enzo
+- enzo：《From geek comunities to IT clousters》
 - jungle
 - 刘老师
 - 李家东
@@ -42,6 +42,7 @@
 - 陆悦
 - 马梦
 - 马菁
+- 杨雪茹
 
 TODO：群里再找一些
 
@@ -54,6 +55,7 @@ TODO：群里再找一些
 - 李兆珅，重庆特色
 - 董翰儒
 - 李柯静
+- 成员：杨雪茹
 
 重医2个，重师2个
 
